@@ -76,15 +76,15 @@ html, body {
 }
 .first {
 color: #1F1605;
-front-family: "Arial", sent-serif;
+font-family: "Arial", sans-serif;
 }
 .second {
 color: #4B3A19;
-front-family: "Arial", sent-serif;
+font-family: "Arial", sans-serif;
 }
 .third {
 color: #8C764B;
-front-family: "Arial", sent-serif;
+font-family: "Arial", sans-serif;
 }
 #flat .title {
  background: white;
